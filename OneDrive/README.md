@@ -1,0 +1,1 @@
+All of these scripts assume you've already performed KFM via Group Policy / Intune and you prevent users from making changes to the config.
